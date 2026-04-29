@@ -1,0 +1,16 @@
+D:\NoificationApplication\src\NotificationApp.Application\bin\Debug\net8.0\NotificationApp.Application.deps.json
+D:\NoificationApplication\src\NotificationApp.Application\bin\Debug\net8.0\NotificationApp.Application.dll
+D:\NoificationApplication\src\NotificationApp.Application\bin\Debug\net8.0\NotificationApp.Application.pdb
+D:\NoificationApplication\src\NotificationApp.Application\bin\Debug\net8.0\NotificationApp.Domain.dll
+D:\NoificationApplication\src\NotificationApp.Application\bin\Debug\net8.0\NotificationApp.Domain.pdb
+D:\NoificationApplication\src\NotificationApp.Application\obj\Debug\net8.0\NotificationApp.Application.csproj.AssemblyReference.cache
+D:\NoificationApplication\src\NotificationApp.Application\obj\Debug\net8.0\NotificationApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\NoificationApplication\src\NotificationApp.Application\obj\Debug\net8.0\NotificationApp.Application.AssemblyInfoInputs.cache
+D:\NoificationApplication\src\NotificationApp.Application\obj\Debug\net8.0\NotificationApp.Application.AssemblyInfo.cs
+D:\NoificationApplication\src\NotificationApp.Application\obj\Debug\net8.0\NotificationApp.Application.csproj.CoreCompileInputs.cache
+D:\NoificationApplication\src\NotificationApp.Application\obj\Debug\net8.0\NotificationApp.Application.sourcelink.json
+D:\NoificationApplication\src\NotificationApp.Application\obj\Debug\net8.0\Notifica.51159E34.Up2Date
+D:\NoificationApplication\src\NotificationApp.Application\obj\Debug\net8.0\NotificationApp.Application.dll
+D:\NoificationApplication\src\NotificationApp.Application\obj\Debug\net8.0\refint\NotificationApp.Application.dll
+D:\NoificationApplication\src\NotificationApp.Application\obj\Debug\net8.0\NotificationApp.Application.pdb
+D:\NoificationApplication\src\NotificationApp.Application\obj\Debug\net8.0\ref\NotificationApp.Application.dll

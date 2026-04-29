@@ -1,0 +1,6 @@
+{
+  "NotificationApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\NoificationApplication\\src\\NotificationApp.Application",
+  "NotificationApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\NoificationApplication\\NotificationApp",
+  "NotificationApp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\NoificationApplication\\src\\NotificationApp.Domain",
+  "NotificationApp.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\NoificationApplication\\src\\NotificationApp.Infrastructure"
+}

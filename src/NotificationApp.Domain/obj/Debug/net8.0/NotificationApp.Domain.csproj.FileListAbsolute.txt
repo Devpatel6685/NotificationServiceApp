@@ -10,3 +10,15 @@ D:\NoificationApplication\src\NotificationApp.Domain\obj\Debug\net8.0\Notificati
 D:\NoificationApplication\src\NotificationApp.Domain\obj\Debug\net8.0\refint\NotificationApp.Domain.dll
 D:\NoificationApplication\src\NotificationApp.Domain\obj\Debug\net8.0\NotificationApp.Domain.pdb
 D:\NoificationApplication\src\NotificationApp.Domain\obj\Debug\net8.0\ref\NotificationApp.Domain.dll
+D:\PC\NoificationApplication\src\NotificationApp.Domain\bin\Debug\net8.0\NotificationApp.Domain.deps.json
+D:\PC\NoificationApplication\src\NotificationApp.Domain\bin\Debug\net8.0\NotificationApp.Domain.dll
+D:\PC\NoificationApplication\src\NotificationApp.Domain\bin\Debug\net8.0\NotificationApp.Domain.pdb
+D:\PC\NoificationApplication\src\NotificationApp.Domain\obj\Debug\net8.0\NotificationApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC\NoificationApplication\src\NotificationApp.Domain\obj\Debug\net8.0\NotificationApp.Domain.AssemblyInfoInputs.cache
+D:\PC\NoificationApplication\src\NotificationApp.Domain\obj\Debug\net8.0\NotificationApp.Domain.AssemblyInfo.cs
+D:\PC\NoificationApplication\src\NotificationApp.Domain\obj\Debug\net8.0\NotificationApp.Domain.csproj.CoreCompileInputs.cache
+D:\PC\NoificationApplication\src\NotificationApp.Domain\obj\Debug\net8.0\NotificationApp.Domain.sourcelink.json
+D:\PC\NoificationApplication\src\NotificationApp.Domain\obj\Debug\net8.0\NotificationApp.Domain.dll
+D:\PC\NoificationApplication\src\NotificationApp.Domain\obj\Debug\net8.0\refint\NotificationApp.Domain.dll
+D:\PC\NoificationApplication\src\NotificationApp.Domain\obj\Debug\net8.0\NotificationApp.Domain.pdb
+D:\PC\NoificationApplication\src\NotificationApp.Domain\obj\Debug\net8.0\ref\NotificationApp.Domain.dll
